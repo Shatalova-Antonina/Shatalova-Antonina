@@ -14,7 +14,6 @@ Hello! I'm a developer passionate about coding and technology. In this repositor
 ## My Programming Style:
 I love writing clean, maintainable code and building projects that solve real-world problems. If you're interested in collaborating or just want to chat about tech, feel free to reach out!
 
-![Programming](https://source.unsplash.com/featured/?code,programming)
 
 Stay tuned for updates on my GitHub and other social platforms! 🚀
 
